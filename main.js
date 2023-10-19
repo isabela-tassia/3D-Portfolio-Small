@@ -61,7 +61,7 @@ scene.background = spaceTexture;
 
 // Avatar
 
-const isaTexture = new THREE.TextureLoader().load('./isa.jpg');
+const isaTexture = new THREE.TextureLoader().load('./isa.jpeg');
 
 const isa = new THREE.Mesh(
   new THREE.BoxGeometry(3, 3, 3),
