@@ -4,12 +4,26 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "serve": "vite preview"
+    "serve": "vite preview",
+    "deploy": "gh-pages -d dist"
   },
   "devDependencies": {
     "vite": "^2.9.16"
   },
   "dependencies": {
-    "three": "^0.128.0"
-  }
+    "three": "^0.128.0",
+    "gh-pages": "^3.2.0"
+  },
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isabela-tassia/3D-Portfolio-Small.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isabela-tassia/3D-Portfolio-Small/issues"
+  },
+  "homepage": "https://github.com/isabela-tassia/3D-Portfolio-Small#readme",
+  "description": ""
 }
