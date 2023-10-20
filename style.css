@@ -89,9 +89,11 @@ section {
     grid-column: 6 / 12;
   }
 
-a, p, li
+ p, li
 {
-  color: #FC3F9B;
+  color: #FC3F9b;
   list-style: none;
 }
-
+a{
+  COLOR: #fb3e6e;
+}
