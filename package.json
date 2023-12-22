@@ -10,7 +10,7 @@
     "vite": "^2.9.16"
   },
   "dependencies": {
-    "three": "^0.128.0"
+    "three": "^0.159.0"
   },
   "main": "main.js",
   "repository": {
